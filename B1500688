@@ -1,0 +1,4 @@
+<div class="mb-3">
+    <label class="fw-bold">Giá trị giảm:</label>
+    <input type="number" name="GiaTriGiam" class="form-control text-danger fw-bold" min="1" value="@Model.GiaTriGiam" required />
+</div>
